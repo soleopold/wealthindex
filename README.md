@@ -1,5 +1,6 @@
 # wealthindex
 Standardized methodology for calculating an asset-based wealth index from refugee and host community survey data
+Methodology: see FDS Methodological Paper 02, Deriving an asset-based wealth index from refugee and host community survey data (UNHCR) https://www.unhcr.org/media/fds-methodological-paper-02-deriving-asset-based-wealth-index-refugee-and-host-community
 
 
 1. To assess the suitability of this method for your data -  use 1_check.R file before any data cleaning
